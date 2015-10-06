@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS Scan</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome!\n\nDear user, You can read your SMS using the "SMS Scan".
+    Press button, choose SMS You want. Short touch opens SMS content,
+    long touch helps to delete it.\n\nOne moment You have to know - You can
+    browse <big>JUST NEW SMS</big> after the app installation </string>
+</resources>
